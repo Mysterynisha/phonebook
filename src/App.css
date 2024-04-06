@@ -1,0 +1,19 @@
+*{
+    background-image: url("https://elements-cover-images-0.imgix.net/e8ae3555-54ed-4462-92f6-353e6e0c12fe?auto=compress&crop=edges&fit=crop&fm=jpeg&h=630&w=1200&s=1a0f648485faa6a1f199c16872487391");
+    
+}
+
+.detail{
+    color: whitesmoke;
+}
+
+.App{
+    padding:20px;
+    margin: 10px;
+}
+
+.list{
+    color: crimson;
+    font-size: 20px;
+    font-weight: bolder;
+}
